@@ -1,5 +1,5 @@
 <html>
 <body>
-	<h1 style="color: blue; font-size: 40px;" align="center">  vasu sir is a god teacher</h1>
+	<h1 style="color: pinck; font-size: 80px;" align="center">  RADHE RADHE</h1>
 </body>
 </html>
