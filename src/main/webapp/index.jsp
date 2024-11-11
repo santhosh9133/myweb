@@ -104,7 +104,7 @@
                         <ellipse rx="120" ry="50" cx="120" cy="80" style="fill:yellow;" />
                     </svg>
                     <div class="text">
-                        <h1><b>SANTHU</b></h1>
+                        <h1><b>IKEA</b></h1>
                     </div>
                 </div>
             </div>
